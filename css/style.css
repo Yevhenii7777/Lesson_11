@@ -258,6 +258,7 @@ body{
 }
 
 .box__glass2 {
+	background: url(../img/rockstar.jpg) 0px 0px /cover no-repeat;
 	width: 120px;
 	height: 85px;
 	display: inline-block;
