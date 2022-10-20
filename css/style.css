@@ -405,14 +405,8 @@ body{
 }
 .body__corps:hover .disc {
 	transition: all 5s ease 0s;
-	transform: rotate(7200deg);
-
-
-
-
-
-	/* зупинився тут */
-
+	transform: rotate(-7200deg);
+}
 
 /*
 .section{
@@ -475,5 +469,4 @@ body{
 	margin-bottom: 10px;
 }
 */
-
-/* Розказати про % */
+/* Розказати про % *
